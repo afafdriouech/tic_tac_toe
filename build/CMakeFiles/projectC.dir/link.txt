@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -Wall -Werror -fdump-rtl-expand   CMakeFiles/projectC.dir/main.c.o CMakeFiles/projectC.dir/renderGame.c.o CMakeFiles/projectC.dir/play.c.o CMakeFiles/projectC.dir/user.c.o  -o projectC -lSDL2 -lSDL2_gfx -lSDL2 

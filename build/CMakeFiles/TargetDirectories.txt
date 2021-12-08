@@ -1,0 +1,3 @@
+/home/afaf/projectC/build/CMakeFiles/rebuild_cache.dir
+/home/afaf/projectC/build/CMakeFiles/projectC.dir
+/home/afaf/projectC/build/CMakeFiles/edit_cache.dir
